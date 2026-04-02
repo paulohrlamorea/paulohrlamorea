@@ -1,13 +1,13 @@
 <div align="center">
-  <img src="./assets/banner-data-analyst.svg" alt="Data Analyst banner" width="100%" />
+  <img src="./assets/cover.png" alt="Data Analyst banner" width="100%" />
 </div>
 
 <br />
 
-<h1 align="center">Paulo Hr. Lamoréa| Analista de Dados</h1>
+<h1 align="center">Paulo Hr. Lamoréa | Analista de Dados</h1>
 
 <p align="center">
-  <strong>Transformando dados em leitura clara, insight acionavel e decisao melhor.</strong>
+  <strong>Transformando dados em leitura clara, insight acionável e decisão melhor.</strong>
 </p>
 
 <p align="center">
@@ -119,7 +119,7 @@ extract -> clean -> explore -> model -> visualize -> explain -> improve
 
 ## O Que Eu Construo
 
-<table>
+<table align="center" width="100%">
   <tr>
     <td valign="top" width="50%">
       <h3>Dashboards Analiticos</h3>
@@ -156,45 +156,65 @@ Comunicacao clara</pre>
 
 ## Projetos em Destaque
 
-<table>
+<table align="center" width="100%">
   <tr>
     <td width="50%">
-      <img src="https://img.shields.io/badge/Project-Performance%20Dashboard-111111?style=for-the-badge&logo=powerbi&logoColor=ffffff&labelColor=7f1d1d" />
+      <img src="https://img.shields.io/badge/Projeto-Excel%20Data%20Cleaner-111111?style=for-the-badge&logo=microsoftexcel&logoColor=ffffff&labelColor=7f1d1d" />
       <br />
-      Painel para leitura de meta, variacao, gargalos e performance por periodo.
-      <br /><br />
-      <a href="https://github.com/MASTERJUDAH">
-        <img src="https://img.shields.io/badge/View-GitHub%20Profile-111111?style=flat-square&logo=github&logoColor=ffffff" />
-      </a>
+      Limpeza e padronizacao de dados em Excel com macro aplicada a cenarios de marketplace analytics.
     </td>
     <td width="50%">
-      <img src="https://img.shields.io/badge/Project-SQL%20Business%20Insights-111111?style=for-the-badge&logo=postgresql&logoColor=ffffff&labelColor=991b1b" />
+      <img src="https://img.shields.io/badge/Projeto-Python%20Data%20Cleaner-111111?style=for-the-badge&logo=python&logoColor=ffffff&labelColor=991b1b" />
       <br />
-      Estudos com query, criterio de negocio e leitura orientada a tomada de decisao.
-      <br /><br />
-      <a href="https://github.com/MASTERJUDAH">
-        <img src="https://img.shields.io/badge/View-Repository%20Base-111111?style=flat-square&logo=github&logoColor=ffffff" />
-      </a>
+      Tratamento de dados com Pandas para acelerar limpeza, consolidacao e preparacao analitica.
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <img src="https://img.shields.io/badge/Project-Python%20Data%20Automation-111111?style=for-the-badge&logo=python&logoColor=ffffff&labelColor=b91c1c" />
+      <img src="https://img.shields.io/badge/Projeto-SQL%20Starter%20Database-111111?style=for-the-badge&logo=postgresql&logoColor=ffffff&labelColor=b91c1c" />
       <br />
-      Scripts para tratamento, consolidacao e entrega recorrente de dados confiaveis.
-      <br /><br />
-      <a href="https://github.com/MASTERJUDAH">
-        <img src="https://img.shields.io/badge/View-Automation%20Work-111111?style=flat-square&logo=github&logoColor=ffffff" />
-      </a>
+      Base inicial em SQL para estudo, modelagem relacional, consultas e evolucao de estrutura de dados.
     </td>
     <td width="50%">
-      <img src="https://img.shields.io/badge/Project-Executive%20Reports-111111?style=for-the-badge&logo=googlesheets&logoColor=ffffff&labelColor=dc2626" />
+      <img src="https://img.shields.io/badge/Projeto-Pipeline%20de%20Dados-111111?style=for-the-badge&logo=apacheairflow&logoColor=ffffff&labelColor=dc2626" />
       <br />
-      Relatorios para acompanhamento de operacao, resultado e oportunidades de melhoria.
-      <br /><br />
-      <a href="https://github.com/MASTERJUDAH">
-        <img src="https://img.shields.io/badge/View-More%20Projects-111111?style=flat-square&logo=github&logoColor=ffffff" />
-      </a>
+      Fluxo de coleta, tratamento e organizacao de dados para alimentar analise e tomada de decisao.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="https://img.shields.io/badge/Projeto-Web%20Scraper-111111?style=for-the-badge&logo=selenium&logoColor=ffffff&labelColor=7f1d1d" />
+      <br />
+      Robo de dados para capturar informacoes relevantes da web e estruturar insumos para analise.
+    </td>
+    <td width="50%">
+      <img src="https://img.shields.io/badge/Projeto-Product%20Normalizer-111111?style=for-the-badge&logo=databricks&logoColor=ffffff&labelColor=991b1b" />
+      <br />
+      Padronizacao de titulos, categorias e atributos de produtos para melhorar qualidade e comparabilidade.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="https://img.shields.io/badge/Projeto-Dashboard%20de%20Inteligencia-111111?style=for-the-badge&logo=powerbi&logoColor=ffffff&labelColor=b91c1c" />
+      <br />
+      Dashboard voltado a inteligencia de mercado com leitura de concorrencia, preco e oportunidade.
+    </td>
+    <td width="50%">
+      <img src="https://img.shields.io/badge/Projeto-Sistema%20de%20Analise-111111?style=for-the-badge&logo=googleanalytics&logoColor=ffffff&labelColor=dc2626" />
+      <br />
+      Sistema para analisar produtos, identificar padroes e apoiar decisoes com base em evidencias.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="https://img.shields.io/badge/Projeto-Sistema%20de%20Recomendacao-111111?style=for-the-badge&logo=tensorflow&logoColor=ffffff&labelColor=7f1d1d" />
+      <br />
+      Motor de recomendacao para sugerir produtos ou acoes a partir de comportamento e contexto.
+    </td>
+    <td width="50%">
+      <img src="https://img.shields.io/badge/Projeto-Automacao%20Inteligente-111111?style=for-the-badge&logo=python&logoColor=ffffff&labelColor=991b1b" />
+      <br />
+      Sistema de automacao inteligente para reduzir trabalho manual e escalar tarefas analiticas.
     </td>
   </tr>
 </table>
