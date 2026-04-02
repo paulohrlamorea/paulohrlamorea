@@ -2,6 +2,8 @@
   <img src="./assets/banner-data-analyst.svg" alt="Data Analyst banner" width="100%" />
 </div>
 
+<br />
+
 <h1 align="center">Paulo | Data Analyst</h1>
 
 <p align="center">
@@ -9,20 +11,20 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Data%20Analysis-0f172a?style=for-the-badge&logo=googleanalytics&logoColor=38BDF8" />
-  <img src="https://img.shields.io/badge/SQL-Business%20Logic-0f172a?style=for-the-badge&logo=postgresql&logoColor=5EEAD4" />
-  <img src="https://img.shields.io/badge/Python-Automation-0f172a?style=for-the-badge&logo=python&logoColor=FCD34D" />
-  <img src="https://img.shields.io/badge/Power%20BI-Executive%20Dashboards-0f172a?style=for-the-badge&logo=powerbi&logoColor=F59E0B" />
+  <img src="https://img.shields.io/badge/Focus-Data%20Analysis-090909?style=for-the-badge&logo=googleanalytics&logoColor=ffffff&labelColor=7f1d1d" />
+  <img src="https://img.shields.io/badge/SQL-Business%20Logic-090909?style=for-the-badge&logo=postgresql&logoColor=ffffff&labelColor=991b1b" />
+  <img src="https://img.shields.io/badge/Python-Automation-090909?style=for-the-badge&logo=python&logoColor=ffffff&labelColor=b91c1c" />
+  <img src="https://img.shields.io/badge/Power%20BI-Executive%20Dashboards-090909?style=for-the-badge&logo=powerbi&logoColor=ffffff&labelColor=dc2626" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Network-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Network-111111?style=flat-square&logo=linkedin&logoColor=ffffff" />
   </a>
   <a href="mailto:seuemail@exemplo.com">
-    <img src="https://img.shields.io/badge/Email-Direct%20Contact-111827?style=flat-square&logo=gmail&logoColor=EA4335" />
+    <img src="https://img.shields.io/badge/Email-Direct%20Contact-7f1d1d?style=flat-square&logo=gmail&logoColor=ffffff" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=MASTERJUDAH&style=flat-square&color=0ea5e9" />
+  <img src="https://komarev.com/ghpvc/?username=MASTERJUDAH&style=flat-square&color=dc2626" />
 </p>
 
 ---
@@ -88,12 +90,12 @@ currently_learning:
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Pandas-111827?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-111827?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-111827?style=for-the-badge&logo=jupyter&logoColor=F37626" />
-  <img src="https://img.shields.io/badge/Power%20BI-111827?style=for-the-badge&logo=powerbi&logoColor=F2C811" />
-  <img src="https://img.shields.io/badge/Excel-111827?style=for-the-badge&logo=microsoftexcel&logoColor=217346" />
-  <img src="https://img.shields.io/badge/Matplotlib-111827?style=for-the-badge&logo=plotly&logoColor=60A5FA" />
+  <img src="https://img.shields.io/badge/Pandas-111111?style=for-the-badge&logo=pandas&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/NumPy-111111?style=for-the-badge&logo=numpy&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Jupyter-7f1d1d?style=for-the-badge&logo=jupyter&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Power%20BI-991b1b?style=for-the-badge&logo=powerbi&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Excel-111111?style=for-the-badge&logo=microsoftexcel&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Matplotlib-b91c1c?style=for-the-badge&logo=plotly&logoColor=ffffff" />
 </p>
 
 <div align="center">
@@ -107,12 +109,12 @@ extract -> clean -> explore -> model -> visualize -> explain -> improve
 ## Dashboard Panel
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MASTERJUDAH&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MASTERJUDAH&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MASTERJUDAH&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=dc2626&bg_color=00000000&border_color=dc2626&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MASTERJUDAH&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=00000000&border_color=dc2626" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=MASTERJUDAH&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=MASTERJUDAH&theme=dark&hide_border=true&ring=dc2626&fire=dc2626&currStreakLabel=ffffff&sideLabels=ffffff&dates=d4d4d4&currStreakNum=ffffff&sideNums=ffffff" />
 </div>
 
 ## What I Build
@@ -120,54 +122,34 @@ extract -> clean -> explore -> model -> visualize -> explain -> improve
 <table>
   <tr>
     <td valign="top" width="50%">
-
-### Analytics Dashboards
-
-```text
-KPI tracking
+      <h3>Analytics Dashboards</h3>
+      <pre>KPI tracking
 Trend analysis
 Operational visibility
-Executive summaries
-```
-
+Executive summaries</pre>
     </td>
     <td valign="top" width="50%">
-
-### SQL Intelligence
-
-```text
-Data extraction
+      <h3>SQL Intelligence</h3>
+      <pre>Data extraction
 Validation logic
 Segmentation
-Performance diagnosis
-```
-
+Performance diagnosis</pre>
     </td>
   </tr>
   <tr>
     <td valign="top" width="50%">
-
-### Python Automation
-
-```text
-Cleaning pipelines
+      <h3>Python Automation</h3>
+      <pre>Cleaning pipelines
 Recurring reports
 Data consolidation
-Process acceleration
-```
-
+Process acceleration</pre>
     </td>
     <td valign="top" width="50%">
-
-### Business Reports
-
-```text
-Actionable insight
+      <h3>Business Reports</h3>
+      <pre>Actionable insight
 Decision support
 Context-rich reporting
-Clear communication
-```
-
+Clear communication</pre>
     </td>
   </tr>
 </table>
@@ -177,41 +159,41 @@ Clear communication
 <table>
   <tr>
     <td width="50%">
-      <img src="https://img.shields.io/badge/Project-Performance%20Dashboard-1f2937?style=for-the-badge&logo=powerbi&logoColor=F2C811" />
+      <img src="https://img.shields.io/badge/Project-Performance%20Dashboard-111111?style=for-the-badge&logo=powerbi&logoColor=ffffff&labelColor=7f1d1d" />
       <br />
       Painel para leitura de meta, variacao, gargalos e performance por periodo.
       <br /><br />
       <a href="https://github.com/MASTERJUDAH">
-        <img src="https://img.shields.io/badge/View-GitHub%20Profile-0f172a?style=flat-square&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/View-GitHub%20Profile-111111?style=flat-square&logo=github&logoColor=ffffff" />
       </a>
     </td>
     <td width="50%">
-      <img src="https://img.shields.io/badge/Project-SQL%20Business%20Insights-1f2937?style=for-the-badge&logo=postgresql&logoColor=5EEAD4" />
+      <img src="https://img.shields.io/badge/Project-SQL%20Business%20Insights-111111?style=for-the-badge&logo=postgresql&logoColor=ffffff&labelColor=991b1b" />
       <br />
       Estudos com query, criterio de negocio e leitura orientada a tomada de decisao.
       <br /><br />
       <a href="https://github.com/MASTERJUDAH">
-        <img src="https://img.shields.io/badge/View-Repository%20Base-0f172a?style=flat-square&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/View-Repository%20Base-111111?style=flat-square&logo=github&logoColor=ffffff" />
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <img src="https://img.shields.io/badge/Project-Python%20Data%20Automation-1f2937?style=for-the-badge&logo=python&logoColor=FCD34D" />
+      <img src="https://img.shields.io/badge/Project-Python%20Data%20Automation-111111?style=for-the-badge&logo=python&logoColor=ffffff&labelColor=b91c1c" />
       <br />
       Scripts para tratamento, consolidacao e entrega recorrente de dados confiaveis.
       <br /><br />
       <a href="https://github.com/MASTERJUDAH">
-        <img src="https://img.shields.io/badge/View-Automation%20Work-0f172a?style=flat-square&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/View-Automation%20Work-111111?style=flat-square&logo=github&logoColor=ffffff" />
       </a>
     </td>
     <td width="50%">
-      <img src="https://img.shields.io/badge/Project-Executive%20Reports-1f2937?style=for-the-badge&logo=googlesheets&logoColor=34D399" />
+      <img src="https://img.shields.io/badge/Project-Executive%20Reports-111111?style=for-the-badge&logo=googlesheets&logoColor=ffffff&labelColor=dc2626" />
       <br />
       Relatorios para acompanhamento de operacao, resultado e oportunidades de melhoria.
       <br /><br />
       <a href="https://github.com/MASTERJUDAH">
-        <img src="https://img.shields.io/badge/View-More%20Projects-0f172a?style=flat-square&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/View-More%20Projects-111111?style=flat-square&logo=github&logoColor=ffffff" />
       </a>
     </td>
   </tr>
@@ -234,17 +216,17 @@ Clear communication
 ## Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MASTERJUDAH&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MASTERJUDAH&bg_color=000000&color=ffffff&line=dc2626&point=ffffff&area=true&area_color=7f1d1d&hide_border=true" />
 </div>
 
 ## Contact
 
 <p align="center">
   <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-111111?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=7f1d1d" />
   </a>
   <a href="mailto:seuemail@exemplo.com">
-    <img src="https://img.shields.io/badge/Gmail-Send%20Email-111827?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+    <img src="https://img.shields.io/badge/Gmail-Send%20Email-111111?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=dc2626" />
   </a>
 </p>
 
