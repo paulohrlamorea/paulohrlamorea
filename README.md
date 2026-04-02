@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/cover.png" alt="Data Analyst banner" width="88%" />
+  <img src="./assets/cover.png" alt="Data Analyst banner" width="72%" />
 </div>
 
 <br />
