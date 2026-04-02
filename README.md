@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/cover.png" alt="Data Analyst banner" width="100%" />
+  <img src="./assets/cover.png" alt="Data Analyst banner" width="88%" />
 </div>
 
 <br />
@@ -109,42 +109,40 @@ extract -> clean -> explore -> model -> visualize -> explain -> improve
 ## Painel GitHub
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MASTERJUDAH&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=dc2626&bg_color=00000000&border_color=dc2626&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MASTERJUDAH&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=00000000&border_color=dc2626" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=paulohrlamorea&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=dc2626&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulohrlamorea&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=ffffff" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=MASTERJUDAH&theme=dark&hide_border=true&ring=dc2626&fire=dc2626&currStreakLabel=ffffff&sideLabels=ffffff&dates=d4d4d4&currStreakNum=ffffff&sideNums=ffffff" />
+  <img src="https://streak-stats.demolab.com?user=paulohrlamorea&theme=dark&hide_border=true&ring=dc2626&fire=dc2626&currStreakLabel=ffffff&sideLabels=ffffff&dates=d4d4d4&currStreakNum=ffffff&sideNums=ffffff" />
 </div>
 
 ## O Que Eu Construo
 
 <table align="center" width="100%">
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="25%">
       <h3>Dashboards Analiticos</h3>
       <pre>Acompanhamento de KPIs
 Analise de tendencias
 Visibilidade operacional
 Resumo executivo</pre>
     </td>
-    <td valign="top" width="50%">
+    <td valign="top" width="25%">
       <h3>Inteligencia em SQL</h3>
       <pre>Extracao de dados
 Logica de validacao
 Segmentacao
 Diagnostico de performance</pre>
     </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="25%">
       <h3>Automacao com Python</h3>
       <pre>Pipeline de limpeza
 Relatorios recorrentes
 Consolidacao de dados
 Aceleracao de processos</pre>
     </td>
-    <td valign="top" width="50%">
+    <td valign="top" width="25%">
       <h3>Relatorios de Negocio</h3>
       <pre>Insight acionavel
 Apoio a decisao
@@ -156,64 +154,64 @@ Comunicacao clara</pre>
 
 ## Projetos em Destaque
 
-<table align="center" width="100%">
+<table align="center" width="100%" cellspacing="12" cellpadding="12">
   <tr>
-    <td width="50%">
-      <img src="https://img.shields.io/badge/Projeto-Excel%20Data%20Cleaner-111111?style=for-the-badge&logo=microsoftexcel&logoColor=ffffff&labelColor=7f1d1d" />
-      <br />
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/PROJETO-EXCEL%20DATA%20CLEANER-111111?style=for-the-badge&logo=microsoftexcel&logoColor=ffffff&labelColor=b91c1c" />
+      <br /><br />
       Limpeza e padronizacao de dados em Excel com macro aplicada a cenarios de marketplace analytics.
     </td>
-    <td width="50%">
-      <img src="https://img.shields.io/badge/Projeto-Python%20Data%20Cleaner-111111?style=for-the-badge&logo=python&logoColor=ffffff&labelColor=991b1b" />
-      <br />
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/PROJETO-PYTHON%20DATA%20CLEANER-111111?style=for-the-badge&logo=python&logoColor=ffffff&labelColor=b91c1c" />
+      <br /><br />
       Tratamento de dados com Pandas para acelerar limpeza, consolidacao e preparacao analitica.
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <img src="https://img.shields.io/badge/Projeto-SQL%20Starter%20Database-111111?style=for-the-badge&logo=postgresql&logoColor=ffffff&labelColor=b91c1c" />
-      <br />
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/PROJETO-SQL%20STARTER%20DATABASE-111111?style=for-the-badge&logo=postgresql&logoColor=ffffff&labelColor=b91c1c" />
+      <br /><br />
       Base inicial em SQL para estudo, modelagem relacional, consultas e evolucao de estrutura de dados.
     </td>
-    <td width="50%">
-      <img src="https://img.shields.io/badge/Projeto-Pipeline%20de%20Dados-111111?style=for-the-badge&logo=apacheairflow&logoColor=ffffff&labelColor=dc2626" />
-      <br />
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/PROJETO-PIPELINE%20DE%20DADOS-111111?style=for-the-badge&logo=apacheairflow&logoColor=ffffff&labelColor=b91c1c" />
+      <br /><br />
       Fluxo de coleta, tratamento e organizacao de dados para alimentar analise e tomada de decisao.
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <img src="https://img.shields.io/badge/Projeto-Web%20Scraper-111111?style=for-the-badge&logo=selenium&logoColor=ffffff&labelColor=7f1d1d" />
-      <br />
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/PROJETO-WEB%20SCRAPER-111111?style=for-the-badge&logo=selenium&logoColor=ffffff&labelColor=b91c1c" />
+      <br /><br />
       Robo de dados para capturar informacoes relevantes da web e estruturar insumos para analise.
     </td>
-    <td width="50%">
-      <img src="https://img.shields.io/badge/Projeto-Product%20Normalizer-111111?style=for-the-badge&logo=databricks&logoColor=ffffff&labelColor=991b1b" />
-      <br />
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/PROJETO-PRODUCT%20NORMALIZER-111111?style=for-the-badge&logo=databricks&logoColor=ffffff&labelColor=b91c1c" />
+      <br /><br />
       Padronizacao de titulos, categorias e atributos de produtos para melhorar qualidade e comparabilidade.
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <img src="https://img.shields.io/badge/Projeto-Dashboard%20de%20Inteligencia-111111?style=for-the-badge&logo=powerbi&logoColor=ffffff&labelColor=b91c1c" />
-      <br />
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/PROJETO-DASHBOARD%20DE%20INTELIGENCIA-111111?style=for-the-badge&logo=powerbi&logoColor=ffffff&labelColor=b91c1c" />
+      <br /><br />
       Dashboard voltado a inteligencia de mercado com leitura de concorrencia, preco e oportunidade.
     </td>
-    <td width="50%">
-      <img src="https://img.shields.io/badge/Projeto-Sistema%20de%20Analise-111111?style=for-the-badge&logo=googleanalytics&logoColor=ffffff&labelColor=dc2626" />
-      <br />
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/PROJETO-SISTEMA%20DE%20ANALISE-111111?style=for-the-badge&logo=googleanalytics&logoColor=ffffff&labelColor=b91c1c" />
+      <br /><br />
       Sistema para analisar produtos, identificar padroes e apoiar decisoes com base em evidencias.
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <img src="https://img.shields.io/badge/Projeto-Sistema%20de%20Recomendacao-111111?style=for-the-badge&logo=tensorflow&logoColor=ffffff&labelColor=7f1d1d" />
-      <br />
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/PROJETO-SISTEMA%20DE%20RECOMENDACAO-111111?style=for-the-badge&logo=tensorflow&logoColor=ffffff&labelColor=b91c1c" />
+      <br /><br />
       Motor de recomendacao para sugerir produtos ou acoes a partir de comportamento e contexto.
     </td>
-    <td width="50%">
-      <img src="https://img.shields.io/badge/Projeto-Automacao%20Inteligente-111111?style=for-the-badge&logo=python&logoColor=ffffff&labelColor=991b1b" />
-      <br />
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/PROJETO-AUTOMACAO%20INTELIGENTE-111111?style=for-the-badge&logo=python&logoColor=ffffff&labelColor=b91c1c" />
+      <br /><br />
       Sistema de automacao inteligente para reduzir trabalho manual e escalar tarefas analiticas.
     </td>
   </tr>
@@ -231,12 +229,6 @@ Comunicacao clara</pre>
 | Explicar | traduzir achado em linguagem de negocio |
 | Melhorar | apoiar acao com base em evidencia |
 
-</div>
-
-## Grafico de Contribuicao
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MASTERJUDAH&bg_color=000000&color=ffffff&line=dc2626&point=ffffff&area=true&area_color=7f1d1d&hide_border=true" />
 </div>
 
 ## Contato
