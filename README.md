@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/cover.png" alt="Data Analyst banner" width="72%" />
+  <img src="./assets/022.png" alt="Data Analyst banner" width="72%" />
 </div>
 
 <br />
@@ -108,14 +108,31 @@ extract -> clean -> explore -> model -> visualize -> explain -> improve
 
 ## Painel GitHub
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=paulohrlamorea&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=dc2626&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulohrlamorea&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=ffffff" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=paulohrlamorea&theme=dark&hide_border=true&ring=dc2626&fire=dc2626&currStreakLabel=ffffff&sideLabels=ffffff&dates=d4d4d4&currStreakNum=ffffff&sideNums=ffffff" />
-</div>
+<table align="center" width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <h3>Perfil</h3>
+      <pre>Analista de Dados
+Python | SQL | Power BI
+Foco em automacao
+e inteligencia de mercado</pre>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Especialidades</h3>
+      <pre>Dashboards executivos
+Tratamento de dados
+Consultas SQL
+Analise de performance</pre>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Entrega</h3>
+      <pre>Coleta
+Limpeza
+Analise
+Insight acionavel</pre>
+    </td>
+  </tr>
+</table>
 
 ## O Que Eu Construo
 
