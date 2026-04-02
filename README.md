@@ -17,16 +17,6 @@
   <img src="https://img.shields.io/badge/Power%20BI-Executive%20Dashboards-090909?style=for-the-badge&logo=powerbi&logoColor=ffffff&labelColor=dc2626" />
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Network-111111?style=flat-square&logo=linkedin&logoColor=ffffff" />
-  </a>
-  <a href="mailto:seuemail@exemplo.com">
-    <img src="https://img.shields.io/badge/Email-Direct%20Contact-7f1d1d?style=flat-square&logo=gmail&logoColor=ffffff" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=MASTERJUDAH&style=flat-square&color=dc2626" />
-</p>
-
 ---
 
 ## Sobre Mim
