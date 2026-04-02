@@ -4,7 +4,7 @@
 
 <br />
 
-<h1 align="center">Paulo | Data Analyst</h1>
+<h1 align="center">Paulo Hr. Lamoréa| Analista de Dados</h1>
 
 <p align="center">
   <strong>Transformando dados em leitura clara, insight acionavel e decisao melhor.</strong>
@@ -29,7 +29,7 @@
 
 ---
 
-## About Me
+## Sobre Mim
 
 <table>
   <tr>
@@ -61,7 +61,7 @@ Atuo na interseccao entre:
 
 ```yaml
 name: Paulo
-role: Data Analyst
+role: Analista de Dados
 base: Brazil
 working_with:
   - SQL
@@ -83,7 +83,7 @@ currently_learning:
   </tr>
 </table>
 
-## Tech Stack
+## Stack Tecnica
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,postgres,mysql,sqlite,git,github,vscode,linux" />
@@ -106,7 +106,7 @@ extract -> clean -> explore -> model -> visualize -> explain -> improve
 
 </div>
 
-## Dashboard Panel
+## Painel GitHub
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=MASTERJUDAH&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=dc2626&bg_color=00000000&border_color=dc2626&rank_icon=github" />
@@ -117,44 +117,44 @@ extract -> clean -> explore -> model -> visualize -> explain -> improve
   <img src="https://streak-stats.demolab.com?user=MASTERJUDAH&theme=dark&hide_border=true&ring=dc2626&fire=dc2626&currStreakLabel=ffffff&sideLabels=ffffff&dates=d4d4d4&currStreakNum=ffffff&sideNums=ffffff" />
 </div>
 
-## What I Build
+## O Que Eu Construo
 
 <table>
   <tr>
     <td valign="top" width="50%">
-      <h3>Analytics Dashboards</h3>
-      <pre>KPI tracking
-Trend analysis
-Operational visibility
-Executive summaries</pre>
+      <h3>Dashboards Analiticos</h3>
+      <pre>Acompanhamento de KPIs
+Analise de tendencias
+Visibilidade operacional
+Resumo executivo</pre>
     </td>
     <td valign="top" width="50%">
-      <h3>SQL Intelligence</h3>
-      <pre>Data extraction
-Validation logic
-Segmentation
-Performance diagnosis</pre>
+      <h3>Inteligencia em SQL</h3>
+      <pre>Extracao de dados
+Logica de validacao
+Segmentacao
+Diagnostico de performance</pre>
     </td>
   </tr>
   <tr>
     <td valign="top" width="50%">
-      <h3>Python Automation</h3>
-      <pre>Cleaning pipelines
-Recurring reports
-Data consolidation
-Process acceleration</pre>
+      <h3>Automacao com Python</h3>
+      <pre>Pipeline de limpeza
+Relatorios recorrentes
+Consolidacao de dados
+Aceleracao de processos</pre>
     </td>
     <td valign="top" width="50%">
-      <h3>Business Reports</h3>
-      <pre>Actionable insight
-Decision support
-Context-rich reporting
-Clear communication</pre>
+      <h3>Relatorios de Negocio</h3>
+      <pre>Insight acionavel
+Apoio a decisao
+Relatorio com contexto
+Comunicacao clara</pre>
     </td>
   </tr>
 </table>
 
-## Featured Projects
+## Projetos em Destaque
 
 <table>
   <tr>
@@ -199,27 +199,27 @@ Clear communication</pre>
   </tr>
 </table>
 
-## Data Mindset
+## Mentalidade Analitica
 
 <div align="center">
 
-| Step | Goal |
+| Etapa | Objetivo |
 |------|------|
-| Collect | capturar o dado certo |
-| Clean | remover ruido e inconsistencia |
-| Explore | encontrar padroes e desvios |
-| Explain | traduzir achado em linguagem de negocio |
-| Improve | apoiar acao com base em evidencia |
+| Coletar | capturar o dado certo |
+| Limpar | remover ruido e inconsistencia |
+| Explorar | encontrar padroes e desvios |
+| Explicar | traduzir achado em linguagem de negocio |
+| Melhorar | apoiar acao com base em evidencia |
 
 </div>
 
-## Contribution Graph
+## Grafico de Contribuicao
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MASTERJUDAH&bg_color=000000&color=ffffff&line=dc2626&point=ffffff&area=true&area_color=7f1d1d&hide_border=true" />
 </div>
 
-## Contact
+## Contato
 
 <p align="center">
   <a href="https://www.linkedin.com/">

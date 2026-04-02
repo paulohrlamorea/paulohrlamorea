@@ -1,49 +1,45 @@
 <svg width="1280" height="420" viewBox="0 0 1280 420" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="1280" height="420" rx="30" fill="#050505"/>
-  <rect x="18" y="18" width="1244" height="384" rx="24" fill="#090909" stroke="#242424"/>
+  <rect width="1280" height="420" rx="28" fill="#0A0A0A"/>
+  <rect x="18" y="18" width="1244" height="384" rx="24" fill="#050505" stroke="#242424"/>
 
-  <circle cx="1070" cy="82" r="110" fill="url(#glowRed)" fill-opacity="0.75"/>
-  <circle cx="176" cy="334" r="96" fill="url(#glowDarkRed)" fill-opacity="0.6"/>
+  <circle cx="1088" cy="88" r="102" fill="url(#redGlow)" fill-opacity="0.7"/>
+  <circle cx="180" cy="336" r="114" fill="url(#darkRedGlow)" fill-opacity="0.55"/>
 
-  <rect x="60" y="60" width="500" height="92" rx="20" fill="#0D0D0D" stroke="#353535"/>
-  <text x="92" y="106" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="46" font-weight="800">PAULO | DATA ANALYST</text>
-  <text x="92" y="138" fill="#EF4444" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="600">Dados limpos. Leitura clara. Decisao melhor.</text>
+  <rect x="70" y="72" width="438" height="92" rx="18" fill="#101010" stroke="#313131"/>
+  <text x="98" y="114" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="42" font-weight="800">PAULO | DATA ANALYST</text>
+  <text x="98" y="146" fill="#EF4444" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="600">Dados limpos. Leitura clara. Decisao melhor.</text>
 
-  <rect x="60" y="190" width="300" height="124" rx="18" fill="#0D0D0D" stroke="#353535"/>
-  <text x="84" y="226" fill="#FFFFFF" font-family="Consolas, monospace" font-size="18">stack.core = [</text>
-  <text x="84" y="255" fill="#EF4444" font-family="Consolas, monospace" font-size="18">  "SQL", "Python",</text>
-  <text x="84" y="284" fill="#D4D4D4" font-family="Consolas, monospace" font-size="18">  "Power BI", "Excel",</text>
-  <text x="84" y="313" fill="#FFFFFF" font-family="Consolas, monospace" font-size="18">]</text>
+  <path d="M212 164C257 190 309 255 390 255C469 255 508 180 609 180C711 180 771 223 843 223C930 223 1001 113 1087 113" stroke="#B91C1C" stroke-width="5" stroke-linecap="round"/>
+  <path d="M214 160C279 104 345 94 419 149C487 200 545 122 606 98C677 70 742 94 807 151C875 209 939 185 997 118" stroke="#FFFFFF" stroke-opacity="0.32" stroke-width="3" stroke-linecap="round" stroke-dasharray="9 10"/>
 
-  <rect x="390" y="190" width="300" height="124" rx="18" fill="#0D0D0D" stroke="#353535"/>
-  <text x="416" y="226" fill="#EF4444" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="800">AREAS DE ATUACAO</text>
-  <text x="416" y="258" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="18">• KPI e performance</text>
-  <text x="416" y="286" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="18">• Automacao analitica</text>
-  <text x="416" y="314" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="18">• Dashboard executivo</text>
+  <rect x="72" y="198" width="315" height="106" rx="18" fill="#101010" stroke="#313131"/>
+  <text x="96" y="234" fill="#FFFFFF" font-family="Consolas, monospace" font-size="18">stack.core = [</text>
+  <text x="96" y="262" fill="#EF4444" font-family="Consolas, monospace" font-size="18">"SQL", "Python", "Power BI",</text>
+  <text x="96" y="290" fill="#FFFFFF" font-family="Consolas, monospace" font-size="18">"Excel", "Pandas", "Storytelling"</text>
+  <text x="96" y="318" fill="#FFFFFF" font-family="Consolas, monospace" font-size="18">]</text>
 
-  <rect x="720" y="190" width="220" height="124" rx="18" fill="#0D0D0D" stroke="#353535"/>
-  <text x="746" y="226" fill="#EF4444" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="800">WORKFLOW</text>
-  <text x="746" y="258" fill="#FFFFFF" font-family="Consolas, monospace" font-size="18">extract()</text>
-  <text x="746" y="286" fill="#FFFFFF" font-family="Consolas, monospace" font-size="18">clean()</text>
-  <text x="746" y="314" fill="#FFFFFF" font-family="Consolas, monospace" font-size="18">visualize()</text>
+  <rect x="425" y="198" width="272" height="106" rx="18" fill="#101010" stroke="#313131"/>
+  <text x="450" y="233" fill="#EF4444" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="800">AREAS DE ATUACAO</text>
+  <text x="450" y="262" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="18">• KPI e performance</text>
+  <text x="450" y="289" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="18">• Automacao analitica</text>
+  <text x="450" y="316" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="18">• Dashboard executivo</text>
 
-  <rect x="970" y="100" width="240" height="168" rx="18" fill="#0D0D0D" stroke="#353535"/>
-  <text x="995" y="140" fill="#EF4444" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="800">VALUE</text>
-  <text x="995" y="176" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="19" font-weight="600">Base bruta em insight</text>
-  <text x="995" y="202" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="19" font-weight="600">acionavel para negocio.</text>
-  <text x="995" y="238" fill="#D4D4D4" font-family="Segoe UI, Arial, sans-serif" font-size="16">Analise, produto, operacao</text>
-  <text x="995" y="261" fill="#D4D4D4" font-family="Segoe UI, Arial, sans-serif" font-size="16">e comunicacao na mesma entrega.</text>
+  <rect x="756" y="74" width="392" height="76" rx="18" fill="#101010" stroke="#313131"/>
+  <text x="781" y="106" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="700">Transformando base bruta em insight acionavel</text>
+  <text x="781" y="132" fill="#EF4444" font-family="Segoe UI, Arial, sans-serif" font-size="16">Analise, produto, negocio e comunicacao na mesma entrega</text>
 
-  <path d="M360 252H390" stroke="#EF4444" stroke-width="4" stroke-linecap="round"/>
-  <path d="M690 252H720" stroke="#EF4444" stroke-width="4" stroke-linecap="round"/>
-  <path d="M940 220H970" stroke="#EF4444" stroke-width="4" stroke-linecap="round"/>
+  <rect x="953" y="190" width="228" height="126" rx="18" fill="#101010" stroke="#313131"/>
+  <text x="978" y="225" fill="#EF4444" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="800">WORKFLOW</text>
+  <text x="978" y="255" fill="#FFFFFF" font-family="Consolas, monospace" font-size="18">extract()</text>
+  <text x="978" y="280" fill="#FFFFFF" font-family="Consolas, monospace" font-size="18">clean()</text>
+  <text x="978" y="305" fill="#FFFFFF" font-family="Consolas, monospace" font-size="18">visualize()</text>
 
   <defs>
-    <radialGradient id="glowRed" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1070 82) rotate(90) scale(110)">
+    <radialGradient id="redGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1088 88) rotate(90) scale(102)">
       <stop stop-color="#DC2626"/>
       <stop offset="1" stop-color="#DC2626" stop-opacity="0"/>
     </radialGradient>
-    <radialGradient id="glowDarkRed" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(176 334) rotate(90) scale(96)">
+    <radialGradient id="darkRedGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(180 336) rotate(90) scale(114)">
       <stop stop-color="#7F1D1D"/>
       <stop offset="1" stop-color="#7F1D1D" stop-opacity="0"/>
     </radialGradient>
