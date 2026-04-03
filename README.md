@@ -21,52 +21,50 @@
 
 ## Sobre Mim
 
-<table>
+<table align="center" width="100%">
   <tr>
-    <td valign="top" width="58%">
+    <td valign="top" width="60%">
+
+<img src="https://img.shields.io/badge/FOCO-ANALISE%20DE%20DADOS-111111?style=for-the-badge&labelColor=b91c1c" />
 
 ```text
-Analista de dados com foco em transformar bases complexas
-em indicadores, diagnosticos e recomendacoes acionaveis.
-
-Atuo na interseccao entre:
-
--> negocio
--> performance
--> operacao
--> produto
--> visualizacao executiva
+Transformo dados em leitura clara, diagnostico confiavel
+e insight acionavel para negocio.
 ```
+
+**Atuacao**
+
+`negocio` • `performance` • `operacao` • `produto` • `visualizacao`
 
 **O que voce encontra aqui**
 
-- Analises para responder perguntas de negocio com objetividade.
-- Dashboards que simplificam leitura e acompanhamento de performance.
-- Consultas SQL para extracao, consistencia e confianca de dado.
-- Scripts em Python para limpeza, consolidacao e automacao.
-- Projetos com foco em impacto, clareza e melhoria continua.
+- Analises para responder perguntas reais de negocio.
+- Dashboards para acompanhamento de KPI, meta e performance.
+- Consultas SQL para extracao, validacao e confianca de dados.
+- Automacoes em Python para limpeza, consolidacao e escala.
+- Projetos com foco em clareza, impacto e tomada de decisao.
 
     </td>
-    <td valign="top" width="42%">
+    <td valign="top" width="40%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=paulohrlamorea&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=d4d4d4&icon_color=dc2626&rank_icon=github" />
+
+<br />
 
 ```yaml
-name: Paulo
-role: Analista de Dados
-base: Brazil
-working_with:
+nome: Paulo
+cargo: Analista de Dados
+base: Brasil
+stack:
   - SQL
   - Python
   - Power BI
   - Excel
   - Pandas
-priority:
-  - business impact
-  - clean communication
-  - repeatable analysis
-currently_learning:
-  - forecasting
-  - experimentation
-  - advanced storytelling
+prioridades:
+  - impacto no negocio
+  - comunicacao clara
+  - analise replicavel
 ```
 
   </td>
