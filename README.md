@@ -47,10 +47,6 @@ e insight acionavel para negocio.
     </td>
     <td valign="top" width="40%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=paulohrlamorea&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=d4d4d4&icon_color=dc2626&rank_icon=github" />
-
-<br />
-
 ```yaml
 nome: Paulo
 cargo: Analista de Dados
